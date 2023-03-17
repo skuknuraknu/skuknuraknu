@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Just wanted to say that i lovee u ✨ <br>
+<img src="https://media.tenor.com/hkPez9ya5qcAAAAC/anime-spy-x-family.gif" width="340" height="340"/>
 <!--
 **skuknuraknu/skuknuraknu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
