@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hi There  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum+Warahmatullah+Wr+Wb..&hearts;++;Self-taught+Front-End+Developer;Active+Learner;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum+Warahmatullah+Wr+Wb..&hearts;++;Hi..+There;Active+Learner;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <img src="https://i.gifer.com/origin/55/55f1f99ec4fceab6af26e290a9bccdcd.gif" width="340" height="340"/>
 Kemarin saya ke apotek beli obat tidur, pas pulang saya bawanya pelan - pelan, takut obatnya bangun... xixxixixiixix
@@ -27,9 +27,9 @@ Kemarin saya ke apotek beli obat tidur, pas pulang saya bawanya pelan - pelan, t
 
 <br>
 
-- 👏 A passionate Self-taught Front-end developer
-- 💻 Currently learning Web Development by Self
-- 🏫 `Junior` at `Faculty of Mathematics and Natural Sciences`
+- `Junior` at `Faculty of Mathematics and Natural Sciences` 🏫
+- Part of [SIREKAT TEAM](http://sirekat.usk.ac.id) (Sistem Informasi Rencana Kerja Tahunan Terpadu)  <picture> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Unsyiah-logo.svg/640px-Unsyiah-logo.svg.png" width = 20px></picture>
+- Part of [PINTER TEAM](https://pinter.usk.ac.id) (Pelaporan Indikator Kinerja Terpadu) <picture> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Unsyiah-logo.svg/640px-Unsyiah-logo.svg.png" width = 20px></picture>
 
 <br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
