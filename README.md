@@ -28,8 +28,6 @@ Kemarin saya ke apotek beli obat tidur, pas pulang saya bawanya pelan - pelan, t
 <br>
 
 - `Junior` at `Faculty of Mathematics and Natural Sciences` 🏫
-- Part of [SIREKAT TEAM](http://sirekat.usk.ac.id) (Sistem Informasi Rencana Kerja Tahunan Terpadu)  <picture> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Unsyiah-logo.svg/640px-Unsyiah-logo.svg.png" width = 20px></picture>
-- Part of [PINTER TEAM](https://pinter.usk.ac.id) (Pelaporan Indikator Kinerja Terpadu) <picture> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Unsyiah-logo.svg/640px-Unsyiah-logo.svg.png" width = 20px></picture>
 
 <br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
