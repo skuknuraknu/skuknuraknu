@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum+Warahmatullah+Wr+Wb..&hearts;++;Hi..+There;Active+Learner;Love+to+learn+new+stuffs..<3"></a>
 </p>
-<img src="https://i.gifer.com/origin/55/55f1f99ec4fceab6af26e290a9bccdcd.gif" width="340" height="340"/>
-Kemarin saya ke apotek beli obat tidur, pas pulang saya bawanya pelan - pelan, takut obatnya bangun... xixxixixiixix
+<p align="center"> 
+<img src="https://i.gifer.com/origin/55/55f1f99ec4fceab6af26e290a9bccdcd.gif" width="340" height="340"/>&nbsp&nbsp&nbsp
+</p>
+<p align="center">Kemarin saya ke apotek beli obat tidur, pas pulang saya bawanya pelan - pelan, takut obatnya bangun... xixxixixiixix</p>
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -64,3 +66,9 @@ Kemarin saya ke apotek beli obat tidur, pas pulang saya bawanya pelan - pelan, t
 <a href="#" target="_blank"> 
 <img src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4" alt="alpine" width="40" height="40"/> </a>
 </p>
+
+<br>
+
+## Last but not least
+Keep learning <br><br>
+<img src="https://miro.medium.com/v2/resize:fit:960/1*Qe60suSfV_KDs5syR76B-A.gif"/>
