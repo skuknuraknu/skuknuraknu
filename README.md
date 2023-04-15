@@ -28,3 +28,39 @@ Kemarin saya ke apotek beli obat tidur, pas pulang saya bawanya pelan - pelan, t
 <br>
 
 - `Junior` at `Faculty of Mathematics and Natural Sciences` 🏫
+
+<br><br><br><br><br><br>
+## 🔮 Tools, Technologies and Languages
+
+<p align="left"> 
+<a href="https://www.java.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://html.spec.whatwg.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://git-scm.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.vim.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
+<a href="https://www.flutter.dev" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://www.developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a>
+<a href="https://www.laravel.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://https://httpd.apache.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg" alt="apache" width="40" height="40"/> </a>
+<a href="https://www.getcomposer.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.php.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.ubuntu.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="#" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
+<a href="#" target="_blank"> 
+<img src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4" alt="alpine" width="40" height="40"/> </a>
+</p>
