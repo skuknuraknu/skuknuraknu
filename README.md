@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="#" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
-<a href="#" target="_blank"> 
+<a href="https://www.alpinejs.dev" target="_blank"> 
 <img src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4" alt="alpine" width="40" height="40"/> </a>
 </p>
 
