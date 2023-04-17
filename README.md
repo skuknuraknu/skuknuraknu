@@ -70,5 +70,5 @@ Here are some ideas to get you started:
 <br>
 
 ## Last but not least
-Keep learning <br><br>
+Jangan semangat dan selalu menyerah <br><br>
 <img src="https://miro.medium.com/v2/resize:fit:960/1*Qe60suSfV_KDs5syR76B-A.gif"/>
