@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <br>
 
 - `Junior` at `Faculty of Mathematics and Natural Sciences` 🏫
-
+<!-- - Part of Pinter Team `Pelaporan Indikator Kinerja Terpadu` <a href="https://pinter.usk.ac.id" target="_blank">Pinter USK</a>
+ -->
 <br><br><br><br><br><br>
 ## 🔮 Tools, Technologies and Languages
 
