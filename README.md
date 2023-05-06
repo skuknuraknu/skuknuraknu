@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/106018819/236599386-e30955a9-afdf-494b-8748-3cdd1a7ce215.jpg" width = 250px></picture>
 
 <br>
 
-- `Junior` at `Faculty of Mathematics and Natural Sciences` 🏫
-<!-- - Part of Pinter Team `Pelaporan Indikator Kinerja Terpadu` <a href="https://pinter.usk.ac.id" target="_blank">Pinter USK</a>
- -->
+- Junior at `Faculty of Mathematics and Natural Sciences` 🏫
+- Part of Pinter Team `Pelaporan Indikator Kinerja Terpadu USK` <a href="https://pinter.usk.ac.id" target="_blank">Pinter USK</a>
+
 <br><br><br><br><br><br>
 ## 🔮 Tools, Technologies and Languages
 
@@ -69,7 +69,5 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-
-## Last but not least
-joget dulu masbro <br><br>
-<img src="https://miro.medium.com/v2/resize:fit:960/1*Qe60suSfV_KDs5syR76B-A.gif"/>
+<br>
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:960/1*Qe60suSfV_KDs5syR76B-A.gif"/></p>
