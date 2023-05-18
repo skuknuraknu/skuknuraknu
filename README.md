@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center"> 
 <img src="https://i.gifer.com/origin/55/55f1f99ec4fceab6af26e290a9bccdcd.gif" width="340" height="340"/>&nbsp&nbsp&nbsp
 </p>
-<p align="center">Kemarin saya ke apotek beli obat tidur, pas pulang saya bawanya pelan - pelan, takut obatnya bangun... xixxixixiixix</p>
+<p align="center">Mengapa kita harus berdoa sebelum minum air? karena didalam air ada 3 jin. 2 hidrojin dan 1 oksijin... xixxixixiixix ngakak abiiieez</p>
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
