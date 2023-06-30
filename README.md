@@ -9,7 +9,9 @@
 <details>
 <summary><h2> Loves ❤️</h2></summary>
 <ul><li>Windows & Debian 💻</li><li>Laravel Inertia 🌐</li>
-<li>Graphql & REST API 📊</li><li>Vanilla JS & Next JS</li><li>Tailwind CSS</li></ul>
+<li>Graphql, REST API & Koa.js 📊</li><li>Vanilla JS & Next JS</li><li>Tailwind CSS</li>
+<li>Mysql & PostgreSQL</li>
+<li>Typescript</li></ul>
 </details>
 <hr>
 <p align="center">I'm not <i>sepuh</i>, i'm just a estes jungler user</p>
