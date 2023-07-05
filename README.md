@@ -14,4 +14,4 @@
 <li>Typescript</li></ul>
 </details>
 <hr>
-<p align="center">I'm not <i>sepuh</i>, i'm just a estes jungler user</p>
+<p align="center">Bukan <i>sepuh</i></p>
