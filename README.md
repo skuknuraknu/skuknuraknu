@@ -11,7 +11,7 @@
 <ul><li>Windows & Debian 💻</li><li>Laravel Inertia 🌐</li>
 <li>Graphql, REST API & Koa.js 📊</li><li>Vanilla JS & Next JS</li><li>Tailwind CSS</li>
 <li>Mysql & PostgreSQL</li>
-<li>Typescript</li></ul>
+<li>Node JS & Typescript</li></ul>
 </details>
 <hr>
 <p align="center">Bukan <i>sepuh</i></p>
