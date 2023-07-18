@@ -7,7 +7,7 @@
 - [X] PINTER USK [ <a href="http://pinter.usk.ac.id" target="_blank">PINTER.USK.AC.ID</a> ]
 
 <details>
-<summary><h2> Loves ❤️</h2></summary>
+<summary><h2> Stack ❤️</h2></summary>
 <ul><li>Windows & Debian 💻</li><li>Laravel Inertia 🌐</li>
 <li>Graphql, REST API & Koa.js 📊</li><li>Vanilla JS & Next JS</li><li>Tailwind CSS</li>
 <li>Mysql & PostgreSQL</li>
