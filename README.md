@@ -16,5 +16,8 @@
 <li>C# WINFORM</li>
 </ul>
 </details>
+
+Need bug fixing on codeigniter, laravel, and native php website? Contact me at: trol1.mr@yandex.com
+
 <hr>
 <p align="center">Bukan <i>sepuh</i></p>
