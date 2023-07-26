@@ -9,13 +9,9 @@
 - [X] PINTER USK [ <a href="http://pinter.usk.ac.id" target="_blank">PINTER.USK.AC.ID</a> ]
 
 <details>
-<summary><h2> Stack ❤️</h2></summary>
-<ul><li>Windows & Debian 💻</li><li>Laravel Inertia</li>
-<li>Graphql & REST API </li><li>Vanilla JS & Next JS</li><li>Tailwind CSS</li>
-<li>Mysql & PostgreSQL</li>
-<li>Node JS & Typescript</li>
-<li>Koa JS & Express JS</li>
-<li>C# WINFORM</li>
+<summary><h2> My Stack ❤️</h2></summary>
+<ul>
+  <li>Laravel Inertia: ReactJS, Typescript, TailwindCSS, MySQL </li>
 </ul>
 </details>
 
