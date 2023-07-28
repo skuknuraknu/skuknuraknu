@@ -12,7 +12,7 @@
 <summary><h2> My Stack ❤️</h2></summary>
 <ul>
   <li><b>Web</b>: Laravel Inertia: ReactJS, Typescript, TailwindCSS, MySQL </li>
-  <li><b>Mobile</b>: React Native + Typescript</li>
+<!--   <li><b>Mobile</b>: React Native + Typescript</li> -->
 </ul>
 </details>
 
