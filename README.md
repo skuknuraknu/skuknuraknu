@@ -4,7 +4,7 @@
 
 <hr>
 
-> Part of the development team:
+> Part of web development team:
 - [X] SIREKAT USK [ <a href="http://sirekat.usk.ac.id" target="_blank">SIREKAT.USK.AC.ID</a> ]
 - [X] PINTER USK [ <a href="http://pinter.usk.ac.id" target="_blank">PINTER.USK.AC.ID</a> ]
 
