@@ -5,7 +5,7 @@
 <hr>
 
 <details>
-<summary><h2> Stack ❤️</h2></summary>
+<summary><h2> ❤️</h2></summary>
 <ul>
   <li>Laravel, ReactJS, Typescript, TailwindCSS, MySQL </li>
 <!--   <li><b>Mobile</b>: React Native + Typescript</li> -->
