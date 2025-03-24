@@ -3,13 +3,25 @@
 </p> -->
 
 <hr>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</p>
 
 <details>
-<summary><h2> ❤️</h2></summary>
+<summary><h2> ❤️ </h2></summary>
 <ul>
-  <li>Laravel, ReactJS, Typescript, TailwindCSS, MySQL </li>
+  <li>🚀 Laravel | ReactJS | TypeScript | TailwindCSS | MySQL</li>
 </ul>
+  <ul>
+    <p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/Take%20Me%20Back%20To%20The%20Day%20We%20Met-%23F75C7E?style=for-the-badge&logo=love" />
+  </a>
+</p>
+  </ul>
 </details>
 
 <hr>
+
 <p align="center">Masih <i>belajar</i></p>
+
