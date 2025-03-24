@@ -14,7 +14,7 @@
 </ul>
   <ul>
     <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/skuknuraknu">
     <img src="https://img.shields.io/badge/Take%20Me%20Back%20To%20The%20Day%20We%20Met-%23F75C7E?style=for-the-badge&logo=love" />
   </a>
 </p>
